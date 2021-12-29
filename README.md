@@ -6,4 +6,4 @@ Alas, Twitter requires a phone number assigned to an account before developer AP
 
 Perhaps in the future I might change my mind but the project has ended for now.
 
-For more information, read this blog post: <URL>.
+For more information, read this blog post: https://andypeeters.me/2021/12/31/python-twitter-project-ended/
